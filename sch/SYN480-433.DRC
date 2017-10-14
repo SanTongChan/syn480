@@ -1,0 +1,30 @@
+Date and Time : 10/15/17 00:32:35
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    GND
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch

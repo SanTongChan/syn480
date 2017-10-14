@@ -1,0 +1,192 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.5.0 p001Oct-14-2017 at 23:48:39}
+primitive 'CAP NP_STD0603_2.7P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='2.7P';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_5.6P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='5.6P';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_105';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='105';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_104';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='104';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_100P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='100P';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_474';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='474';
+  end_body;
+end_primitive;
+primitive 'CHOKE_STD0603_22NH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CHOKE';
+    JEDEC_TYPE='std0603';
+    VALUE='22NH';
+  end_body;
+end_primitive;
+primitive 'CHOKE_STD0603_27NH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CHOKE';
+    JEDEC_TYPE='std0603';
+    VALUE='27NH';
+  end_body;
+end_primitive;
+primitive 'SYN480_SOP8_SYN480';
+  pin
+    'VSS':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'ANT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VDD':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'CTH':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'D0':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'SHU':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'CAG':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'REF':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='syn480';
+    JEDEC_TYPE='sop8';
+    VALUE='SYN480';
+  end_body;
+end_primitive;
+primitive '4P-1_ZCZ254-1X4_4P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='4P-1';
+    JEDEC_TYPE='ZCZ254-1X4';
+    VALUE='4P';
+  end_body;
+end_primitive;
+primitive 'ZTB_CRY2P_1100X470_6.7458M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ZTB';
+    JEDEC_TYPE='CRY2P_1100X470';
+    VALUE='6.7458M';
+  end_body;
+end_primitive;
+END.

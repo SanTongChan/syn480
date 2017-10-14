@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : syn480.brd                                    )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sun Oct 15 01:34:11 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Users/Administrator/Desktop/doublepcb.prm
+	Layout Name   : E:/workDir/SYB480/board/syn480.brd
+
+Reading...parameter_header:
+Reading...db_common_type:
+	WARNING: Unmatched Data - Field Name: alternate_subclass , Value: "DETAILS"
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...netCustomColors:
+Reading...text_size_table:
+Reading...dynfill_parm_type:
+Reading...drf_parm_type:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
+Reading...probe_parm_type:
+Reading...placement_parameter_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 1.

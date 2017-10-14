@@ -1,0 +1,120 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Oct-14-2017 at 23:48:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SYN480-433';
+ POST_TIME='Apr 21 2011 10:02:30';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_STD0603_2.7P':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS188@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins188@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins188@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_STD0603_5.6P':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS220@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins220@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins220@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_STD0603_105':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS236@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins236@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins236@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_STD0603_104':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS152@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins152@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins152@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_STD0603_100P':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS172@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins172@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins172@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_STD0603_474':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS204@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins204@discrete.\cap np.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins204@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'CHOKE_STD0603_22NH':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS645@DISCRETE.CHOKE.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins645@discrete.\choke.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins645@discrete.\choke.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'CHOKE_STD0603_27NH':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS111@DISCRETE.CHOKE.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins111@discrete.\choke.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins111@discrete.\choke.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'SYN480_SOP8_SYN480':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS38@IC.SYN480.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins38@ic.\syn480.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins38@ic.\syn480.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '4P-1_ZCZ254-1X4_4P':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS893@MODULE.4P-1.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins893@module.\4p-1.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins893@module.\4p-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'ZTB_CRY2P_1100X470_6.7458M':;
+
+SECTION_NUMBER 1
+ '@SYN480-433.SCHEMATIC1(SCH_1):INS277@DISCRETE.ZTB.NORMAL(CHIPS)':
+ C_PATH='@\syn480-433\.schematic1(sch_1):ins277@discrete.\ztb.normal\(chips)',
+ P_PATH='@\syn480-433\.schematic1(sch_1):page1_ins277@discrete.\ztb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

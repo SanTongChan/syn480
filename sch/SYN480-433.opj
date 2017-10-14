@@ -1,0 +1,22 @@
+(ExpressProject "SYN480-433"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File "E:\workDir\vcc12_24\sch\syn480-433.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 487"))
+      (Tab 0))))
